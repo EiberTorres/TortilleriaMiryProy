@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tortilleria Miry/1.0.0": {
+        "runtime": {
+          "tortilleria Miry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tortilleria Miry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

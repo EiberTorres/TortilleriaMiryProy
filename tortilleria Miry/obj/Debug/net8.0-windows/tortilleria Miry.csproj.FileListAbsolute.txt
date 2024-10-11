@@ -1,0 +1,64 @@
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.exe
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.deps.json
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.runtimeconfig.json
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.dll
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.pdb
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form1.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form2.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form3.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form4.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form5.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form6.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Properties.Resources.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.csproj.GenerateResource.cache
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.AssemblyInfoInputs.cache
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.AssemblyInfo.cs
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.csproj.CoreCompileInputs.cache
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.dll
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\refint\tortilleria Miry.dll
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.pdb
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.genruntimeconfig.cache
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\ref\tortilleria Miry.dll
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form7.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form8.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form9.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form10.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form11.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form12.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form13.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form14.resources
+F:\Fernando\progra 7\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form15.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.dll
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\refint\tortilleria Miry.dll
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.pdb
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.exe
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.deps.json
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.runtimeconfig.json
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.dll
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\bin\Debug\net8.0-windows\tortilleria Miry.pdb
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form1.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form10.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form11.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form12.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form13.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form14.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form15.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form2.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form3.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form4.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form5.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form6.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form7.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form8.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Form9.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria_Miry.Properties.Resources.resources
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.sourcelink.json
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\ref\tortilleria Miry.dll
+C:\Users\Admin\Downloads\Punto de venta Tortilleria Miry\tortilleria Miry\tortilleria Miry\obj\Debug\net8.0-windows\tortilleria Miry.csproj.AssemblyReference.cache
